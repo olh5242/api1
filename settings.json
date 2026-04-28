@@ -1,0 +1,39 @@
+{
+    "LinkSite": "https://star-rp.unaux.com",
+    "LinkForum": "https://forum-star-rp.unaux.com",
+    "LinkDonate": "https://star-rp.unaux.com",
+    "LinkLk": "https://star-rp.unaux.com",
+
+    "LinkSup": "",
+
+    "LinkDs": "https://discord.gg/gkAGacCYMS",
+    "LinkTg": "https://discord.gg/gkAGacCYMS",
+
+    "LinkOnline0": "http://144.76.220.86:20007/api0/data_1.json",
+    "LinkOnline1": "http://144.76.220.86:20007/api1/data_1.json",
+    "LinkOnline2": "http://144.76.220.86:20007/api2/data_1.json",
+
+    "GameVersion": "1.0.0",
+
+    "ShowX2": true,
+
+    "TechWork": false,
+
+    "TechLauncher": false,
+
+    "Updater": false,
+
+    "LinkImgNews1": "https://i.postimg.cc/TYfFnSb4/image-(4).png",
+    "NewsDate1": "28.04.2026",
+    "LinkImgNews2": "",
+    "NewsDate2": "",
+    "LinkImgNews3": "",
+    "NewsDate3": "",
+    "LinkImgNews4": "",
+    "NewsDate4": "",
+    "LinkImgNews5": "",
+    "NewsDate5": "",
+
+    "Ip": "94.23.168.153",
+    "Port": 22052
+}
